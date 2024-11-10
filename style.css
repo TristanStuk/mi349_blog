@@ -92,11 +92,25 @@ label, input[type="email"] {
 
 label {
   display: inline-block;
-  width: 120px; /* Adjust this value as needed */
+  width: 120px; 
   vertical-align: middle;
 }
 
 input[type="email"] {
   display: inline-block;
   vertical-align: middle;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+}
+
+blockquote {
+  font-style: italic;
+  margin: 20px;
+  padding-left: 15px;
+  border-left: 5px solid #ccc;
 }
