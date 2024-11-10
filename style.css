@@ -83,9 +83,5 @@ header {
   }
 
   nav ul li {
-    padding-left: 30px; 
-  }
-  
-  nav ul li::before {
-    left: 15px; 
-  }
+    margin-left: 10px; /* Adjust the value as needed */
+}
