@@ -12,7 +12,7 @@ header {
   }
   
   nav ul li a {
-    color: #FFFFFF;
+    color: #ECF0F1;
     padding: 15px;
     display: block;
     text-decoration: none;
@@ -73,6 +73,28 @@ header {
     line-height: 1.6;
     margin-bottom: 15px;
   }
+
+  header h1, header h2, header h3 {
+    color: #FFFFFF;
+  }
+
+    footer p {
+      color: #FFFFFF; 
+    }
+
+    nav ul li {
+      margin-left: 10px; 
+    }
+    
+    label, input[type="email"] {
+      display: inline-block;
+    }
+    
+    label {
+      display: inline-block;
+      width: 120px; 
+      vertical-align: middle;
+    }
 
   input[type="email"] {
     border: 1px solid #bdc3c7;
