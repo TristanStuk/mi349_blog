@@ -1,17 +1,17 @@
 header {
     position: sticky;
     top: 0;
-    background-color: #fff;
+    background-color: #EE8434;
     z-index: 1000;
   }
   
   nav ul {
     display: flex;
-    background-color: #333;
+    background-color: #C95D63;
   }
   
   nav ul li a {
-    color: #fff;
+    color: #AE8799;
     padding: 15px;
     display: block;
     text-decoration: none;
@@ -29,7 +29,7 @@ header {
   .sidebar {
     flex: 1;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #717EC3;
   }
 
   .float-image {
@@ -44,13 +44,13 @@ header {
   }
 
   #special-announcement {
-    background-color: #ffeb3b;
+    background-color: #496DDB;
     padding: 10px;
     text-align: center;
   }
 
   input[type="email"] {
-    border: 1px solid #ccc;
+    border: 1px solid #EE8434;
     padding: 8px;
     width: 50%;
   }
@@ -59,22 +59,22 @@ header {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #C95D63;
   }
 
   h1, h2, h3 {
-    color: #333;
+    color: #AE8799;
     margin: 20px 0 10px;
   }
 
   p {
-    color: #555;
+    color: #717EC3;
     line-height: 1.6;
     margin-bottom: 15px;
   }
 
   input[type="email"] {
-    border: 1px solid #ccc;
+    border: 1px solid #496DDB;
     padding: 8px;
     width: 300px; 
     display: block; 
@@ -102,8 +102,8 @@ input[type="email"] {
 }
 
 footer {
-  background-color: #333;
-  color: #fff;
+  background-color: #EE8434;
+  color: #C95D63;
   text-align: center;
   padding: 15px 0;
 }
@@ -112,5 +112,5 @@ blockquote {
   font-style: italic;
   margin: 20px;
   padding-left: 15px;
-  border-left: 5px solid #ccc;
+  border-left: 5px solid #AE8799;
 }
