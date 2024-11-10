@@ -72,3 +72,12 @@ header {
     line-height: 1.6;
     margin-bottom: 15px;
   }
+
+  input[type="email"] {
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 300px; /* Reduced width */
+    display: block; /* Allows margin auto to center */
+    margin: 0 auto; /* Centers the input field */
+    box-sizing: border-box; /* Ensures padding and border are included in width */
+  }
