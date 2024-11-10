@@ -89,3 +89,14 @@ header {
 label, input[type="email"] {
   display: inline-block;
 }
+
+label {
+  display: inline-block;
+  width: 120px; /* Adjust this value as needed */
+  vertical-align: middle;
+}
+
+input[type="email"] {
+  display: inline-block;
+  vertical-align: middle;
+}
