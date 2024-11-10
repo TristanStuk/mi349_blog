@@ -17,3 +17,17 @@ header {
     text-decoration: none;
   }
   
+  .flex-container {
+    display: flex;
+  }
+  
+  .main-content {
+    flex: 2;
+    padding: 20px;
+  }
+  
+  .sidebar {
+    flex: 1;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
