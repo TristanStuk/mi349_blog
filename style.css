@@ -42,3 +42,9 @@ header {
     width: 100%;
     height: auto;
   }
+
+  #special-announcement {
+    background-color: #ffeb3b;
+    padding: 10px;
+    text-align: center;
+  }
