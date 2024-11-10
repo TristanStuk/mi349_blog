@@ -52,7 +52,7 @@ header {
   input[type="email"] {
     border: 1px solid #ccc;
     padding: 8px;
-    width: 100%;
+    width: 50%;
   }
 
   body {
