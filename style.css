@@ -31,3 +31,14 @@ header {
     padding: 20px;
     background-color: #f4f4f4;
   }
+
+  .float-image {
+    float: right;
+    margin: 0 0 10px 10px;
+    width: 300px;
+  }
+  
+  .float-image img {
+    width: 100%;
+    height: auto;
+  }
