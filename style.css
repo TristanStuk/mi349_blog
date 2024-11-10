@@ -83,33 +83,6 @@ header {
   }
 
   nav ul li {
-    margin-left: 10px; /* Adjust the value as needed */
+    margin-left: 10px; 
 }
 
-nav ul.nav-menu {
-  display: flex;
-  background-color: #333;
-  list-style: none; /* Remove default bullets */
-  padding: 0;
-  margin: 0;
-}
-
-nav ul.nav-menu li {
-  position: relative;
-}
-
-nav ul.nav-menu li::before {
-  content: "\2022"; /* Unicode character for bullet point */
-  position: absolute;
-  left: 5px; /* Adjust this value to move the bullet point */
-  top: 50%;
-  transform: translateY(-50%);
-  color: #fff;
-}
-
-nav ul.nav-menu li a {
-  color: #fff;
-  padding-left: 20px; /* Adjust this value to move the text */
-  display: block;
-  text-decoration: none;
-}
