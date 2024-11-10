@@ -137,3 +137,12 @@ blockquote {
   padding-left: 15px;
   border-left: 5px solid #18BC9C;
 }
+
+#newsletter {
+  background-color: #2C3E50; 
+  padding: 20px;
+}
+
+#newsletter h2 {
+  color: #FFFFFF; 
+}
